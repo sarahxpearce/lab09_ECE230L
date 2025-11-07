@@ -1,6 +1,6 @@
 module top(
-    input  [15:0] sw,
-    input         btnL, btnU, btnD, btnR, btnC,
+    input [15:0] sw,
+    input btnL, btnU, btnD, btnR, btnC,
     output [15:0] led
 );
     wire [1:0] ms = {btnU, btnL};
