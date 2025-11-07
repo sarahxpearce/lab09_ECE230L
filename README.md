@@ -12,7 +12,7 @@ In this lab you have learned about multiplexers and demultiplexers.
 | Question 3 | Your answers to the question | 25% |
 
 ## Lab Questions
-Summary: 
+Summary: In this lab, we learned how multiplexers and demultiplexers work and how to build them in Verilog. We also learned how to use ternary statements to make our Verilog code shorter and cleaner. Overall, it helped us understand how data can be directed and shared between different parts of a circuit.
 
 ### In plain English describe the function and use of a multiplexer.
 A multiplexor is a selector switch that lets you take multiple inputs and and lets you choose one to send to the output. It basically decides which of the input signals gets through to the output. 
